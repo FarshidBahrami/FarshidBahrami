@@ -2,9 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=FarshidBahrami&color=orange)
 
-- Senior Data Scientist turning data into insights, one line of code at a time  
-- Python | Power BI | Tableau | AWS | GCP | Azure  
-- [Your Portfolio / Website] (https://yourwebsite.com) • [Contact] (mailto:your.email@example.com)
+- Senior Data Scientist | GenAI & NLP | ML & Deep Learning | AI Solution 
+- genai | LLM | LangChain | AI Agents | RAG  
+- [Your Portfolio / Website] (https://yourwebsite.com) • [Contact] (mailto:farshid.bg@outlook.com)
 
 ---
 
