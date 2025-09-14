@@ -4,7 +4,7 @@
 
 - Senior Data Scientist | GenAI & NLP | ML & Deep Learning | AI Solution 
 - genai | LLM | LangChain | AI Agents | RAG  
-- [Your Portfolio / Website] (https://yourwebsite.com) • [Contact] (mailto:farshid.bg@outlook.com)
+- [Whatsapp] (https://yourwebsite.com) • [Email] (farshid.bg@outlook.com)
 
 ---
 
