@@ -4,7 +4,7 @@
 
 - Senior Data Scientist | GenAI & NLP | ML & Deep Learning | AI Solution 
 - genai | LLM | LangChain | AI Agents | RAG  
-- [Whatsapp] (https://yourwebsite.com) • [Email] (farshid.bg@outlook.com)
+- [Whatsapp] (+60-11 1131 8079) • [Email] (farshid.bg@outlook.com)
 
 ---
 
