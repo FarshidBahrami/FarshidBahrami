@@ -10,4 +10,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FarshidBahrami&show_icons=true&count_private=true&theme=flag-india&card_width=320) [![GitHub Streak](https://streak-stats.demolab.com?user=FarshidBahrami&theme=flag-india&card_width=350&hide_total_contributions=true)](https://streak-stats.demolab.com?user=FarshidBahrami&theme=flag-india&card_width=350&hide_total_contributions=true)  
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FarshidBahrami&show_icons=true&theme=light)
+
 ---
