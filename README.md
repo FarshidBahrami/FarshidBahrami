@@ -8,20 +8,6 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FarshidBahrami&show_icons=true&count_private=true&theme=flag-india&card_width=320) [![GitHub Streak](https://streak-stats.demolab.com?user=FarshidBahrami&theme=flag-india&card_width=350&hide_total_contributions=true)](https://streak-stats.demolab.com?user=FarshidBahrami&theme=flag-india&card_width=350&hide_total_contributions=true)  
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FarshidBahrami&show_icons=true&theme=light)
-
-
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FarshidBahrami&show_icons=true&count_private=true&theme=flag-india&include_all_commits=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=FarshidBahrami&theme=flag-india)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FarshidBahrami&layout=compact&theme=flag-india)
-
-
 ### 📊 GitHub Stats
 ![Farshid's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FarshidBahrami&show_icons=true&theme=tokyonight&count_private=true)
 
