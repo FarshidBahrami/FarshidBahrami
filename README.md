@@ -21,4 +21,12 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FarshidBahrami&layout=compact&theme=flag-india)
 
+
+### 📊 GitHub Stats
+![Farshid's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FarshidBahrami&show_icons=true&theme=tokyonight&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=FarshidBahrami&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FarshidBahrami&layout=compact&theme=tokyonight)
+
 ---
