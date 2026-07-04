@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=FarshidBahrami&color=orange)
 
 - Senior Data Scientist | GenAI & NLP | ML & Deep Learning | AI Solution 
-- genai | LLM | LangChain | AI Agents | RAG  
+- GEN AI | LLM | LangChain | AI Agents | RAG  
 - [Whatsapp] (+60-11 1131 8079) • [Email] (farshid.bg@outlook.com)
 
 ---
